@@ -74,7 +74,7 @@ Display all filtered images using a grid layout for comparison.
   import matplotlib.pyplot as plt
   ```
   ```
-  img = cv2.imread("lion.png")
+  img = cv2.imread("image 5.jpg")
   img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
   ```
   ```
